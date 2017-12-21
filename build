@@ -1,0 +1,2 @@
+#!/bin/bash
+gcc parser.c -o parser -lpthread -lm -std=c99
